@@ -1,6 +1,5 @@
-![Basic Analysis](images/basic.png)
-
-![Indicators](images/indi.png)
+![Basic Analysis](https://github.com/ssegoviajuarez/samplecode/blob/main/images/basic.PNG?raw=true)
+![Indicators](https://github.com/ssegoviajuarez/samplecode/blob/main/images/indi.PNG)
 
 # *****DO NOT CIRCULATE MATERIAL *****
 
@@ -16,8 +15,15 @@
 	- rmarkdown::run("LOCATION OF YOUR FILE/qcheckViz.Rmd")
    
    - Please write to: ssegoviajuarez@worldbank.org if you have questions.
-   
-   
+
+## Preview 1
+![Basic Analysis](https://github.com/ssegoviajuarez/samplecode/blob/main/images/basic.PNG?raw=true)
+
+## Preview 2
+![Indicators](https://github.com/ssegoviajuarez/samplecode/blob/main/images/indi.PNG)   
+
+
+
 
    
 
