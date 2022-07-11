@@ -1,3 +1,7 @@
+![Basic Analysis](images/basic.png)
+
+![Indicators](images/indi.png)
+
 # *****DO NOT CIRCULATE MATERIAL *****
 
 ## 1. Visualization sample: qcheckViz.Rdm   
@@ -14,12 +18,10 @@
    - Please write to: ssegoviajuarez@worldbank.org if you have questions.
    
    
-![Basic Analysis](images/basic.png)
 
-![Indicators](images/indi.png)
    
 
-## 2. Writing sample: RegressionDiagnostics_SAE_SandraSegovia.pdf: 
+## 2. Writing sample: RegressionDiagnostics.pdf: 
   - Chapter written by Sandra Segovia for the upcoming "Guidelines to Small Area Estimation for Poverty Mapping" 
     by Paul Corral, Isabel Molina, Alexandru Cojocaru, and Sandra Segovia.
    - **Note**: The 3000 word count does not include the index nor the code extracts, althought it was also written by me.
