@@ -1,6 +1,3 @@
-![Basic Analysis](https://github.com/ssegoviajuarez/samplecode/blob/main/images/basic.PNG?raw=true)
-![Indicators](https://github.com/ssegoviajuarez/samplecode/blob/main/images/indi.PNG)
-
 # *****DO NOT CIRCULATE MATERIAL *****
 
 ## 1. Visualization sample: qcheckViz.Rdm   
@@ -16,10 +13,10 @@
    
    - Please write to: ssegoviajuarez@worldbank.org if you have questions.
 
-## Preview 1
+### Preview 1
 ![Basic Analysis](https://github.com/ssegoviajuarez/samplecode/blob/main/images/basic.PNG?raw=true)
 
-## Preview 2
+### Preview 2
 ![Indicators](https://github.com/ssegoviajuarez/samplecode/blob/main/images/indi.PNG)   
 
 
