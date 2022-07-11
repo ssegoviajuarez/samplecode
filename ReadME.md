@@ -16,7 +16,8 @@
 ## 2. Writing sample: 
    ### Regression_Diagnostics.pdf:
     - Chapter written by Sandra Segovia for the upcoming "Guidelines to Small Area Estimation for Poverty Mapping" 
-    by Paul Corral, Isabel Molina, Alexandru Cojocaru, and Sandra Segovia. (See Closing Report from GSG1 Data for Policy Analysis (P169434))
+    by Paul Corral, Isabel Molina, Alexandru Cojocaru, and Sandra Segovia.
+    - See Closing Report from GSG1 Data for Policy Analysis (P169434))
     *Note: The 3000 word count does not include the index nor the code extracts, althought it was also written by me.
 
 ## 3. Code samples:
