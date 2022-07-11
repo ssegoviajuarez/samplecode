@@ -1,6 +1,7 @@
 # *****DO NOT CIRCULATE MATERIAL *****
 
-## 1. Visualization sample: qcheckViz.Rdm   (https://github.com/ssegoviajuarez/qcheckViz)
+## 1. Visualization sample: qcheckViz.Rdm   
+   - Also see in https://github.com/ssegoviajuarez/qcheckViz
    - qcheckViz ia a R Shiny dashboard to visualize the output from qCheck (a technical package for quality control of household surveys, comprehending variable-specific analysis in each dataset).
    - Dashboard needs the datasets include in this package to be visualized (See package)
    - Given the nature of the data used, dashboard cannot published in shinyapps.io, since data has restricted use.
@@ -11,6 +12,12 @@
 	- rmarkdown::run("LOCATION OF YOUR FILE/qcheckViz.Rmd")
    
    - Please write to: ssegoviajuarez@worldbank.org if you have questions.
+   
+   
+![Basic Analysis](images/basic.png)
+
+![Indicators](images/indi.png)
+   
 
 ## 2. Writing sample: RegressionDiagnostics_SAE_SandraSegovia.pdf: 
   - Chapter written by Sandra Segovia for the upcoming "Guidelines to Small Area Estimation for Poverty Mapping" 
