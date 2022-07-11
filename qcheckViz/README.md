@@ -10,6 +10,9 @@ To access to the qcheckViz dashboard (without opening the file and running it by
 
 ### Created by Sandra Segovia https://github.com/ssegoviajuarez/
 
-
+### Preview 1
 ![Basic Analysis](https://github.com/ssegoviajuarez/samplecode/blob/main/images/basic.PNG?raw=true)
+
+
+### Preview 2
 ![Indicators](https://github.com/ssegoviajuarez/samplecode/blob/main/images/indi.PNG)
