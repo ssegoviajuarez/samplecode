@@ -28,7 +28,7 @@ https://github.com/ssegoviajuarez/samplecode/tree/main/qcheckViz
 ## 2. Writing sample: RegressionDiagnostics.pdf 
 https://github.com/ssegoviajuarez/samplecode/blob/main/RegressionDiagnostics.pdf
 
-  - Chapter written by Sandra Segovia for the upcoming "Guidelines to Small Area Estimation for Poverty Mapping" 
+  - one if the chapters written by Sandra Segovia for the upcoming "Guidelines to Small Area Estimation for Poverty Mapping" 
     by Paul Corral, Isabel Molina, Alexandru Cojocaru, and Sandra Segovia.
    - **NOTE**: The 3000 word count does not include the index nor the code extracts, althought it was also written by me.
 
